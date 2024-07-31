@@ -1,0 +1,12 @@
+*{
+    background: grey;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    float: left;
+    background-color: grey;
+}
